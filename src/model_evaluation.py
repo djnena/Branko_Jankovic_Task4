@@ -13,7 +13,7 @@ from data_preprocessing import (
 )
 
 DATA_PATH = "data/cars_cleaned_with_features.csv"
-MODEL_PATH = "models/linear_regression_model.joblib"
+MODEL_PATH = "models/car_price_model.joblib"
 
 print("Loading dataset...")
  
