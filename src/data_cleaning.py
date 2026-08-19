@@ -1,8 +1,8 @@
 import re
 import pandas as pd
 
-RAW_DATA_PATH = "Branko_Jankovic_Task4/data/cars.csv"
-CLEANED_DATA_PATH = "Branko_Jankovic_Task4/data/cars_cleaned.csv"
+RAW_DATA_PATH = "data/cars.csv"
+CLEANED_DATA_PATH = "data/cars_cleaned.csv"
 MISSING_LIKE_VALUES = {
     "",
     " ",
